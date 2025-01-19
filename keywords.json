@@ -650,7 +650,6 @@
     "programmer socks",
     "foot wraps"
   ],
-
   "any-item": [
     "fantasy-item",
     "food-item",
@@ -772,6 +771,10 @@
     "unobtanium",
     "visor"
   ],
+  "any-food": [
+    "food-item",
+    "food-material"
+  ],
   "food-item": [
     "bowl of spaghetti",
     "burrito",
@@ -786,10 +789,6 @@
     "quesadilla",
     "sandwich",
     "taco"
-  ],
-  "food": [
-    "food-item",
-    "food-material"
   ],
   "food-material": [
     "birthday cake",
