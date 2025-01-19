@@ -293,9 +293,10 @@
     "yeti"
   ],
 
-  "any-class": [
+  "any-role": [
     "fantasy-class",
-    "scifi-class"
+    "scifi-class",
+    "job"
   ],
   "fantasy-class": [
     "artificer",
@@ -335,6 +336,31 @@
     "space pirate",
     "spy"
   ],
+  "job": [
+    "accountant",
+    "artist",
+    "assasin",
+    "backup dancer",
+    "bus driver",
+    "cashier",
+    "cheese monger",
+    "chef",
+    "dealer",
+    "detective",
+    "fraudster",
+    "gardener",
+    "general",
+    "lawyer",
+    "mechanic",
+    "memelord",
+    "soilder",
+    "sommelier",
+    "spy",
+    "thug",
+    "warlord",
+    "zookeeper"
+  ],
+
 
   "any-item": [
     "fantasy-item",
@@ -952,31 +978,6 @@
     "physics",
     "sociology",
     "zoology"
-  ],
-
-  "job": [
-    "accountant",
-    "artist",
-    "assasin",
-    "backup dancer",
-    "bus driver",
-    "cashier",
-    "cheese monger",
-    "chef",
-    "dealer",
-    "detective",
-    "fraudster",
-    "gardener",
-    "general",
-    "lawyer",
-    "mechanic",
-    "memelord",
-    "soilder",
-    "sommelier",
-    "spy",
-    "thug",
-    "warlord",
-    "zookeeper"
   ],
 
   "ing-verb-active": [
